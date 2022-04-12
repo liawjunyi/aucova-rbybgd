@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "aucova",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

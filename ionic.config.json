@@ -1,0 +1,8 @@
+{
+  "name": "aucova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c9121090"
+}
